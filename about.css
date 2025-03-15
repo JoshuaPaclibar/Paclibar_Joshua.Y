@@ -1,0 +1,33 @@
+html{ background-image: url(iPhone-Logo-2007.png);}
+header
+{
+    font-family: Arial;
+    color: aqua;
+    text-align: end ;
+    font-size: 40px;
+}
+about{
+    font-family: Tahoma;
+    color:rgb(43, 10, 10);
+    text-align: left;
+    font-size: 15px;+
+    p1{
+        font-family: Tahoma;
+        color:purple;
+        text-align: left;
+        font-size: 15px;
+    }
+    p2{
+        font-family: Tahoma;
+        color:blue;
+        font-weight: bold;
+        text-align: left;
+        font-size: 20px;
+    }
+    p3{    
+        font-family: Tahoma;
+        color:rgb(43, 10, 10);
+        font-weight: bold;
+        text-align: left;
+        font-size: 20px;}
+}
